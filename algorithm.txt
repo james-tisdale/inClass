@@ -6,6 +6,9 @@
     b. they don't answer. - repeat step 4.
 5. place the order.
     a. pay over phone. - go to step 6.
-    b. pay at door. - go to step 7.
+    b. pay at door. - go to step 9.
 6. give card info.
 7. wait for pizza.
+8. answer the door.
+    a. pay at door. see step 9.
+9. pay the man.
