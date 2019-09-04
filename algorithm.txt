@@ -5,3 +5,7 @@
     a. they answered. - go to step 5.
     b. they don't answer. - repeat step 4.
 5. place the order.
+    a. pay over phone. - go to step 6.
+    b. pay at door. - go to step 7.
+6. give card info.
+7. wait for pizza.
